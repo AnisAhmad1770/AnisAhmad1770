@@ -12,6 +12,13 @@ I'm a Computer Systems Engineer and AWS Certified Solutions Architect Associate 
 - 👯 I'm looking to collaborate on React.js and AI-based projects
 - 💼 Open to opportunities in React Development and Cloud Solutions
 
+## 📊 GitHub Statistics
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisAhmad1770&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnisAhmad1770&theme=react&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnisAhmad1770&theme=react)](https://git.io/streak-stats)
+
 ## 💻 Tech Stack
 ### Current Stack:
 - **Frontend**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
